@@ -1,0 +1,7 @@
+name: PlayingLog
+version: '${project.version}'
+main: skh6075.playinglog.PlayingLog
+api-version: 1.19
+authors: [ skh6075 ]
+description: Records PaperMC block install/destroy and crate transaction behavior
+website: https://github.com/skh6075
